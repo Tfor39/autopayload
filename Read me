@@ -10,4 +10,4 @@ apt update && upgrade
 apt install python
 apt install python2
 * Move the file in metasploit-framework folder
-python3 payl
+python3 paymobile.py
