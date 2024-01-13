@@ -1,5 +1,0 @@
-sudo apt update
-sudo apt upgrade
-sudo apt install python
-sudo apt install python2
-python3 payload.py

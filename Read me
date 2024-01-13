@@ -1,0 +1,13 @@
+For Linux:
+sudo apt update
+sudo apt upgrade
+sudo apt install python
+sudo apt install python2
+python3 payload.py
+
+For Termux:
+apt update && upgrade
+apt install python
+apt install python2
+* Move the file in metasploit-framework folder
+python3 payl
